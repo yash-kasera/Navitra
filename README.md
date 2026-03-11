@@ -72,7 +72,3 @@ The project follows a monorepo-style setup:
     *   `src/app/`: The Next.js App Router, with grouped routes for `(auth)`, `(traveler)`, `(tour-guide)`, and `(hotel-manager)`.
     *   `src/components/`: Reusable React components.
     *   `src/lib/`: Utility functions, including Supabase client configurations.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
